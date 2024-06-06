@@ -1,0 +1,10 @@
+
+train: /content/drive/My Drive/LCT_2024/drone_dataset/train
+val: /content/drive/My Drive/LCT_2024/drone_dataset/valid
+
+# number of classes
+nc: 1
+
+# class names
+names: ['drone']
+    
