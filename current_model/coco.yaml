@@ -1,0 +1,10 @@
+
+train: "E:\Projects\Data\LCT\subsets\train_subset_2024_06_06_22_02_08"
+val: "E:\Projects\Data\LCT\subsets\validation_subset_2024_06_06_22_02_08"
+
+# number of classes
+nc: 5
+
+# class names
+names: ['copter_UAV', 'airplane', 'helicopter', 'bird', 'airplane_UAV']
+    
